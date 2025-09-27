@@ -77,3 +77,45 @@ Coming soon…
    ```bash
    git clone https://github.com/yourusername/smartfin.git
    cd smartfin
+🖥️ Run Locally / Development
+
+Follow these steps to run SmartFin locally on your machine:
+
+1. Clone the Repository
+git clone https://github.com/yourusername/smartfin.git
+cd smartfin
+
+2. Install Dependencies
+npm install
+
+
+Or if you use Yarn:
+
+yarn install
+
+3. Configure Environment Variables
+
+Create a .env file at the root of the project with the required keys:
+
+API_KEY=your_api_key
+DATABASE_URL=your_database_url
+
+
+Replace your_api_key and your_database_url with your real credentials.
+
+4. Start the Development Server
+npm run dev
+
+
+Or with Yarn:
+
+yarn dev
+
+5. Open in Browser
+
+Once the server is running, open http://localhost:3000
+ in your browser to see the app.
+
+6. Stop the Server
+
+Press Ctrl + C in your terminal to stop the development server.
