@@ -75,14 +75,14 @@ Coming soon…
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smartfin.git
+   git clone https://github.com/Merci1100/Mindcrew-budget-predictor
    cd smartfin
 🖥️ Run Locally / Development
 
 Follow these steps to run SmartFin locally on your machine:
 
 1. Clone the Repository
-git clone https://github.com/yourusername/smartfin.git
+git clone https://github.com/Merci1100/Mindcrew-budget-predictor
 cd smartfin
 
 2. Install Dependencies
